@@ -26,7 +26,8 @@ Using the np.linalg.eig(),  we get two results (first is eigenvalue and second i
 End the program
 
 ## Program:
-```#Program to find the eigen values and eigen vectors.
+```
+#Program to find the eigen values and eigen vectors.
 #Developed by:Renuga.S
 #Registernumber:212222230118
 import numpy as np
