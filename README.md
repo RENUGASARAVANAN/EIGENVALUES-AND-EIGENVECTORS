@@ -37,7 +37,8 @@ print("Eigen values are",evalues,"and Eigen Vectors are",evector)
 ```
 
 ## Output:
-![S RENUGA EIGEN VALUES](https://user-images.githubusercontent.com/119292258/227716393-7fd0ef44-9a87-4ea1-a086-c2f692c6764b.png)
+
+![Eigen values](https://github.com/RENUGASARAVANAN/EIGENVALUES-AND-EIGENVECTORS/assets/119292258/16041574-6c42-4979-b56a-8d7650c35f26)
 
 
 ## Result:
